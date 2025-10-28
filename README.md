@@ -61,16 +61,20 @@ Each module fetches specific data:
    ```bash
    git clone https://github.com/yourusername/Playball.git
    cd Playball
+   ```
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   ```
 3. **Set up environment variables**
    ```bash
    WEATHER_API_KEY=your_weatherapi_key
    GOOGLE_PLACES_API_KEY=your_google_places_key
+   ```
 4. **Run the app**
    ```bash
    python scripts/main.py
+   ```
 
 ---
 ## 📸 Dashboard Preview
