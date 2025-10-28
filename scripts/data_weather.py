@@ -2,7 +2,12 @@
 import json
 import requests
 import pandas as pd
+from dotenv import load_dotenv
 
+load_dotenv()
+
+# Get API key securely
+WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
 
 # %%
 def get_weather(city, default_file="raw_weather.json"):
@@ -12,7 +17,9 @@ def get_weather(city, default_file="raw_weather.json"):
     :param default_file: when api calling fails, using default file
     :return: dictionary from json data
     """
-    api_key = "3732e8c30a6e421194a23218240810"  # This API key Ends on Oct,22,2024 !!
+    if not WEATHER_API_KEY:
+        raise ValueError("Missing WEATHER_API_KEY in .env file.")
+        
     url = f"http://api.weatherapi.com/v1/forecast.json?key={api_key}&q={city}&days=3"
 
     # Attempt to fetch data from the API
