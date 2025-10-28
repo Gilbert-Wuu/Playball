@@ -2,7 +2,11 @@
 import json
 import requests
 import pandas as pd
+from dotenv import load_dotenv
 
+load_dotenv()
+
+GOOGLE_PLACES_API_KEY = os.getenv("GOOGLE_PLACES_API_KEY")
 
 # %%
 def get_places(text_query, default_file="raw_places.json"):
@@ -12,7 +16,9 @@ def get_places(text_query, default_file="raw_places.json"):
     :param default_file: when api calling fails, using default file
     :return: dictionary from json data
     """
-    api_key = "AIzaSyDokR44aKG__IOaQJueoj25pEyJjplmzWI"
+    if not GOOGLE_PLACES_API_KEY:
+        raise ValueError("Missing GOOGLE_PLACES_API_KEY in .env file.")
+        
     url = f"https://places.googleapis.com/v1/places:searchText?key={api_key}"
 
     res = requests.post(
