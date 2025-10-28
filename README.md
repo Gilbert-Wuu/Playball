@@ -53,13 +53,6 @@ Each module fetches specific data:
 - Match info  
 - Real-time weather  
 - Recommended nearby restaurants  
-
-### 3. Output Example
-
-| Date | City | Stadium | Weather | Avg Temp (°F) | Top Restaurants |
-|------|------|----------|----------|----------------|-----------------|
-| Oct 8, 2024 | Pittsburgh | PNC Park | Clear | 53.1 | Tooty’s Hamburgers, Lafayette Coney Island |
-
 ---
 
 ## 🧰 Installation
