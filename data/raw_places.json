@@ -1,0 +1,2074 @@
+{
+    "places": [
+        {
+            "types": [
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 952-1890",
+            "formattedAddress": "150 Water St, New York, NY 10005, USA",
+            "rating": 4.1,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "displayName": {
+                "text": "The Best Of New York Food",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "supermarket",
+                "grocery_store",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "formattedAddress": "107 2nd Ave, New York, NY 10003, USA",
+            "rating": 3.9,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 9,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 19,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 9:00 AM – 7:00 PM",
+                    "Tuesday: 9:00 AM – 7:00 PM",
+                    "Wednesday: 9:00 AM – 7:00 PM",
+                    "Thursday: 9:00 AM – 7:00 PM",
+                    "Friday: 9:00 AM – 7:00 PM",
+                    "Saturday: 9:00 AM – 7:00 PM",
+                    "Sunday: 9:00 AM – 7:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "New Yorkers Foodmarket",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "historical_landmark",
+                "meal_takeaway",
+                "bakery",
+                "grocery_store",
+                "store",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 475-4880",
+            "formattedAddress": "179 E Houston St, New York, NY 10002, USA",
+            "rating": 4.6,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 16,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 8:00 AM – 4:00 PM",
+                    "Tuesday: 8:00 AM – 4:00 PM",
+                    "Wednesday: 8:00 AM – 4:00 PM",
+                    "Thursday: 8:00 AM – 4:00 PM",
+                    "Friday: 8:00 AM – 4:00 PM",
+                    "Saturday: 8:00 AM – 4:00 PM",
+                    "Sunday: 8:00 AM – 4:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "displayName": {
+                "text": "Russ & Daughters",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "barbecue_restaurant",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "formattedAddress": "6 W 49th St, New York, NY 10020, USA",
+            "rating": 4.7,
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "displayName": {
+                "text": "Chop Steak New York Food Truck",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "supermarket",
+                "grocery_store",
+                "cafe",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(646) 581-9261",
+            "formattedAddress": "55 Fulton St, New York, NY 10038, USA",
+            "rating": 4.2,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 10:00 PM",
+                    "Saturday: 7:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "55 Fulton Market by Keyfood",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "american_restaurant",
+                "grocery_store",
+                "store",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 269-8026",
+            "formattedAddress": "89 Greenwich St, New York, NY 10006, USA",
+            "rating": 4.1,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 18,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 6:00 PM",
+                    "Tuesday: 7:00 AM – 6:00 PM",
+                    "Wednesday: 7:00 AM – 6:00 PM",
+                    "Thursday: 7:00 AM – 6:00 PM",
+                    "Friday: 7:00 AM – 6:00 PM",
+                    "Saturday: 7:00 AM – 6:00 PM",
+                    "Sunday: 7:00 AM – 6:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "displayName": {
+                "text": "Rector Street Food Enterprises",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "grocery_store",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 868-9790",
+            "formattedAddress": "831 6th Ave, New York, NY 10001, USA",
+            "rating": 4.1,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 15,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 5,
+                            "minute": 45
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 21,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 5,
+                            "minute": 45
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 21,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 5,
+                            "minute": 45
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 21,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 5,
+                            "minute": 45
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 21,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 5,
+                            "minute": 45
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 21,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 5,
+                            "minute": 45
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 21,
+                            "minute": 45
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 5:45 AM – 9:45 PM",
+                    "Tuesday: 5:45 AM – 9:45 PM",
+                    "Wednesday: 5:45 AM – 9:45 PM",
+                    "Thursday: 5:45 AM – 9:45 PM",
+                    "Friday: 5:45 AM – 9:45 PM",
+                    "Saturday: 5:45 AM – 9:45 PM",
+                    "Sunday: 6:00 AM – 3:45 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "America Gourmet Food",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(332) 242-8294",
+            "formattedAddress": "40 Wall St, New York, NY 10005, USA",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "The Best Of New York Food",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "hamburger_restaurant",
+                "fast_food_restaurant",
+                "sandwich_shop",
+                "meal_takeaway",
+                "american_restaurant",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(646) 374-3450",
+            "formattedAddress": "200 Broadway, Space LL2010 #2010, New York, NY 10038, USA",
+            "rating": 4.2,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 10:30 AM – 10:00 PM",
+                    "Tuesday: 10:30 AM – 10:00 PM",
+                    "Wednesday: 10:30 AM – 10:00 PM",
+                    "Thursday: 10:30 AM – 11:00 PM",
+                    "Friday: 10:30 AM – 11:00 PM",
+                    "Saturday: 10:30 AM – 11:00 PM",
+                    "Sunday: 10:30 AM – 10:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "displayName": {
+                "text": "Shake Shack Fulton Transit CTR - Manhattan",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "supermarket",
+                "grocery_store",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "formattedAddress": "128 Mott St, New York, NY 10013, USA",
+            "rating": 3.9,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:30 AM – 9:00 PM",
+                    "Tuesday: 7:30 AM – 9:00 PM",
+                    "Wednesday: 7:30 AM – 9:00 PM",
+                    "Thursday: 7:30 AM – 9:00 PM",
+                    "Friday: 7:30 AM – 9:00 PM",
+                    "Saturday: 7:30 AM – 9:00 PM",
+                    "Sunday: 7:30 AM – 9:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "New York Mart",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "sandwich_shop",
+                "american_restaurant",
+                "store",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 254-2246",
+            "formattedAddress": "205 E Houston St, New York, NY 10002, USA",
+            "rating": 4.5,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 8:00 AM – 11:00 PM",
+                    "Tuesday: 8:00 AM – 11:00 PM",
+                    "Wednesday: 8:00 AM – 11:00 PM",
+                    "Thursday: 8:00 AM – 11:00 PM",
+                    "Friday: 8:00 AM – 11:00 PM",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "displayName": {
+                "text": "Katz's Delicatessen",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "grocery_store",
+                "supermarket",
+                "liquor_store",
+                "health",
+                "market",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 420-1320",
+            "formattedAddress": "95 E Houston St, New York, NY 10002, USA",
+            "rating": 4.2,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 10:00 PM",
+                    "Saturday: 7:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "displayName": {
+                "text": "Whole Foods Market",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(347) 363-7909",
+            "formattedAddress": "95 Wall St, New York, NY 10005, USA",
+            "rating": 4.7,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 10,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 3,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 10:00 AM – 3:00 AM",
+                    "Tuesday: 10:00 AM – 3:00 AM",
+                    "Wednesday: 10:00 AM – 3:00 AM",
+                    "Thursday: 10:00 AM – 3:00 AM",
+                    "Friday: 10:00 AM – 3:00 AM",
+                    "Saturday: 10:00 AM – 3:00 AM",
+                    "Sunday: 10:00 AM – 3:00 AM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "NEW YORK BEST HALAL FOOD",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "chinese_restaurant",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 786-2068",
+            "formattedAddress": "8 Liberty Pl, New York, NY 10038, USA",
+            "rating": 4.4,
+            "regularOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 20,
+                            "minute": 30
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 8:30 PM",
+                    "Tuesday: 11:00 AM – 8:30 PM",
+                    "Wednesday: 11:00 AM – 8:30 PM",
+                    "Thursday: 11:00 AM – 8:30 PM",
+                    "Friday: 11:00 AM – 8:30 PM",
+                    "Saturday: 11:00 AM – 8:30 PM",
+                    "Sunday: 11:00 AM – 8:30 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "displayName": {
+                "text": "Xi'an Famous Foods 西安名吃",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "fast_food_restaurant",
+                "hamburger_restaurant",
+                "american_restaurant",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 619-3322",
+            "formattedAddress": "85 Nassau St, New York, NY 10038, USA",
+            "rating": 4,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 6,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 6,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 8,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 6,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 6,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 6:30 AM – 12:00 AM",
+                    "Tuesday: 6:30 AM – 12:00 AM",
+                    "Wednesday: 8:30 AM – 1:00 AM",
+                    "Thursday: 6:30 AM – 12:00 AM",
+                    "Friday: 6:30 AM – 1:00 AM",
+                    "Saturday: 7:30 AM – 1:00 AM",
+                    "Sunday: 7:30 AM – 12:00 AM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "displayName": {
+                "text": "Wendy's",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "grocery_store",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 582-2075",
+            "formattedAddress": "769 10th Ave, New York, NY 10019, USA",
+            "rating": 4.5,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 6:00 AM – 12:00 AM",
+                    "Tuesday: 6:00 AM – 12:00 AM",
+                    "Wednesday: 6:00 AM – 12:00 AM",
+                    "Thursday: 6:00 AM – 12:00 AM",
+                    "Friday: 6:00 AM – 12:00 AM",
+                    "Saturday: 6:00 AM – 12:00 AM",
+                    "Sunday: 6:00 AM – 12:00 AM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "NY-2 Food Market",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "breakfast_restaurant",
+                "store",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 786-3336",
+            "formattedAddress": "225 Broadway, New York, NY 10007, USA",
+            "rating": 4,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 6,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 6:00 AM – 9:00 PM",
+                    "Tuesday: 6:00 AM – 9:00 PM",
+                    "Wednesday: 6:00 AM – 9:00 PM",
+                    "Thursday: 6:00 AM – 9:00 PM",
+                    "Friday: 6:00 AM – 9:00 PM",
+                    "Saturday: 6:00 AM – 9:00 PM",
+                    "Sunday: 6:00 AM – 9:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "displayName": {
+                "text": "Apple Gourmet",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "grocery_store",
+                "supermarket",
+                "liquor_store",
+                "health",
+                "market",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 349-6555",
+            "formattedAddress": "270 Greenwich St, New York, NY 10007, USA",
+            "rating": 4.4,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 10:00 PM",
+                    "Saturday: 7:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "displayName": {
+                "text": "Whole Foods Market",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "sandwich_shop",
+                "liquor_store",
+                "grocery_store",
+                "store",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(212) 477-3663",
+            "formattedAddress": "159 Essex St, New York, NY 10002, USA",
+            "rating": 3.7,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 8:00 AM – 9:00 PM",
+                    "Tuesday: 8:00 AM – 9:00 PM",
+                    "Wednesday: 8:00 AM – 9:00 PM",
+                    "Thursday: 8:00 AM – 9:00 PM",
+                    "Friday: 8:00 AM – 9:00 PM",
+                    "Saturday: 8:00 AM – 9:00 PM",
+                    "Sunday: 8:00 AM – 9:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "Your Wholesome Foods Grocery & Deli",
+                "languageCode": "en"
+            }
+        },
+        {
+            "types": [
+                "grocery_store",
+                "store",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "(917) 261-4530",
+            "formattedAddress": "70 Pine St, New York, NY 10270, USA",
+            "rating": 4.3,
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 11:00 PM",
+                    "Tuesday: 7:00 AM – 11:00 PM",
+                    "Wednesday: 7:00 AM – 11:00 PM",
+                    "Thursday: 7:00 AM – 11:00 PM",
+                    "Friday: 7:00 AM – 11:00 PM",
+                    "Saturday: 7:00 AM – 11:00 PM",
+                    "Sunday: 7:00 AM – 11:00 PM"
+                ]
+            },
+            "businessStatus": "OPERATIONAL",
+            "displayName": {
+                "text": "City Acres Market",
+                "languageCode": "en"
+            }
+        }
+    ]
+}
